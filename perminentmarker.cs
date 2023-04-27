@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp33
 {
-    internal class Program
+    internal class perminentmarker: marker
     {
-        static void Main(string[] args)
-        {
-            perminentmarker pm = new perminentmarker();
-
-            pm.
-        }
     }
 }
